@@ -1,0 +1,20 @@
+.paragraf
+{
+    cursor: pointer;
+    width: 80%;
+}
+.position-fixed
+{
+    width: 20%;
+}
+
+.p-open 
+{
+    cursor: pointer;
+    width: 20%;
+    text-align: center;
+}
+.borderbot
+{
+    border-bottom: 1px solid black;
+}
